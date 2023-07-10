@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [keyBay](https://github.com/jomkv/keyBay)
 
-- 🌱 I’m currently learning **NodeJS and Dart**
+- 🌱 I’m currently learning **NodeJS and React**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
