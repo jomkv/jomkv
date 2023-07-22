@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomkv&label=Profile%20views&color=0e75b6&style=flat" alt="jomkv" /> </p>
 
-- 🔭 I’m currently working on [keyBay](https://github.com/jomkv/keyBay)
+- 🔭 I’m currently working on [keyBay API](https://github.com/jomkv/keyBay-API)
 
 - 🌱 I’m currently learning the **MERN Stack**
 
