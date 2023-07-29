@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [keyBay API](https://github.com/jomkv/keyBay-API)
 
-- 🌱 I’m currently learning the **MERN Stack**
+- 🌱 I’m currently learning **Node, React and Redux**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
