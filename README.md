@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [keyBay](https://github.com/jomkv/keyBay)
 
-- 🌱 I’m currently learning **React-Typescript and Material UI**
+- 🌱 I’m currently learning **NodeJS, React-Typescript and Material UI**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
