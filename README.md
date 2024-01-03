@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomkv&label=Profile%20views&color=0e75b6&style=flat" alt="jomkv" /> </p>
 
-- 🔭 I’m currently working on [keyBay](https://github.com/jomkv/keyBay)
+- 🔭 I’m currently working on [Budget Management System](https://github.com/jomkv/keyBay](https://github.com/jomkv/BudgetBud )
 
-- 🌱 I’m currently learning **NodeJS and React**
+- 🌱 I’m currently learning **C# and MySql**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
