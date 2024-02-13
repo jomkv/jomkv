@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Budget Management System](https://github.com/jomkv/BudgetBud)
 
-- 🌱 I’m currently learning **C# and MySql**
+- 🌱 I’m currently learning about **Web APIs (Nodejs, Express, JWT, etc)**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
