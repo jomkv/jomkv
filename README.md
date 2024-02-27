@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on KeyBud
 
-- 🌱 I’m currently learning about **Web APIs (Nodejs, Express, JWT, etc)**
+- 🌱 I’m currently learning about **Web APIs (Nodejs, Express)**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
