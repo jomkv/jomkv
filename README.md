@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on KeyBud
 
-- 🌱 I’m currently learning about **PHP**
+- 🌱 I’m currently learning about **PHP, Codeigniter4 and React**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
