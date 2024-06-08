@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomkv&label=Profile%20views&color=0e75b6&style=flat" alt="jomkv" /> </p>
 
-- 🔭 I’m currently working on Phoenix Shop
+- 🔭 I’m currently working on Phoenix Hub, and side projects
 
 - 🌱 I’m currently learning about **PHP, Codeigniter4 and React**
 
