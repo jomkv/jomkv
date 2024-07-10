@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomkv&label=Profile%20views&color=0e75b6&style=flat" alt="jomkv" /> </p>
 
-- 🔭 I’m currently working on **Side projects**
+- 🔭 I’m currently working on **KeyBud, and side projects**
 
-- 🌱 I’m currently learning **PHP, CI4 and Backend Development**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
