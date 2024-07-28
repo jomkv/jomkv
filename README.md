@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **KeyBud, and side projects**
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Fullstack Development, and Golang**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
