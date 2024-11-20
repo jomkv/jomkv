@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[KeyBud](https://github.com/jomkv/KeyBud) and SZN E-Commerce Website**
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Fullstack Development and Go**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
