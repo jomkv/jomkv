@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomkv&label=Profile%20views&color=0e75b6&style=flat" alt="jomkv" /> </p>
 
-- 🔭 I’m currently working on **[KeyBud](https://github.com/jomkv/KeyBud) and SZN E-Commerce Website**
+- 🔭 I’m currently working on **[KeyBud](https://github.com/jomkv/KeyBud)
 
-- 🌱 I’m currently learning **Fullstack Development** and **Go**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
