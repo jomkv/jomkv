@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **KeyBud and a Freelance Project**
 
-- 👨‍💻 All of my projects are available at [www.jomkv.tech](www.jomkv.tech)
+- 👨‍💻 All of my projects are available at [www.jomkv.tech](https://www.jomkv.tech)
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jkverzosa](www.linkedin.com/in/jkverzosa)
+- 📄 Know about my experiences [www.linkedin.com/in/jkverzosa](https://www.linkedin.com/in/jkverzosa)
 
 - ⚡ Fun fact **I'm obsessed with keyboards**
 
