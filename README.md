@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomkv&label=Profile%20views&color=000000&style=flat-square" alt="jomkv" /> </p>
 
-- 🔭 I’m currently working on **Linknest and School Projects**
+- 🔭 I’m currently working on **Linknest**
   
 - 🌱 I’m currently learning **NestJS**
 
