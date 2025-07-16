@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Linknest**
   
-- 🌱 I’m currently learning **NestJS** and **Laravel**
+- 🌱 I’m currently learning **NestJS** and **FastAPI**
 
 - 👨‍💻 All of my projects are available at [www.jomkv.tech](https://www.jomkv.tech)
 
