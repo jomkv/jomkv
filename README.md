@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 <p align="center"><img src="https://www.codewars.com/users/jomkv/badges/large"/></p>
 
-- 🔭 I’m currently working on **Linknest** and **Keybud V2**
+- 🔭 I’m currently working on **TrueScope** and **Keybud V2**
 
 - 👨‍💻 All of my projects are available at [www.jomkv.tech](https://www.jomkv.tech)
 
