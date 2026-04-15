@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **TrueScope** and **Keybud V2**
 
-- 👨‍💻 All of my projects are available at [www.jomkv.tech](https://www.jomkv.tech)
+- 👨‍💻 All of my projects are available at [www.jomkv.me](https://www.jomkv.me)
 
 - 📫 How to reach me **jomkarlov@gmail.com**
 
